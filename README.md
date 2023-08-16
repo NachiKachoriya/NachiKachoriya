@@ -1,6 +1,6 @@
 [![MasterHead](https://www.netpower.vn/wp-content/uploads/2020/12/hiring-engineers-14.gif)](https://NachiKachoriya.io)
-<h1 align="center">Hi 👋, Hey there! I am Nachiket.</h1>
-<h3 align="center">A master degree student in Mechatronics and Cyber-Physical Systems focused o Robotics and applications.</h3>
+<h1 align="center">Hey there! 👋, I am Nachiket.</h1>
+<h3 align="center">A master degree student in Mechatronics and Cyber-Physical Systems focused on Robotics, Programming, and applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachikachoriya&label=Profile%20views&color=0e75b6&style=flat" alt="nachikachoriya" /> </p>
 
