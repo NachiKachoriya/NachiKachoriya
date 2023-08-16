@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/nachiket_7" target="blank"><img src="https://img.shields.io/twitter/follow/nachiket_7?logo=twitter&style=for-the-badge" alt="nachiket_7" /></a> </p>
 
-- 🔭 I’m currently working on **Projects based on Python, Arduino, and Raspberry Pi**
+- 🔭 I’m currently working on **Projects based on ROS2, Python, C++, Arduino, and Raspberry Pi**
 
-- 🌱 I’m currently learning **Python, SQL, MatLAB, ROS (Robotics Operating System), C++**
+- 🌱 I’m currently learning **ROS/ROS2, Python, C/C++, Machine Learning, AI, MatLAB SQL**
 
-- 👯 I’m looking to collaborate on **Learn and Collaborate**
+- 👯 I’m looking to collaborate on **Developing robotics applications**
 
-- 🤝 I’m looking for help with **collaboration on the project of robotic hand controlled with voice commands**
+- 🤝 I’m looking for help with **collaboration on the project of a robotic arm controlled with camera sensors controlled with voice commands**
 
-- I am regularly learning **web development, machine learning, ROS**
+- I am regularly working on **ROS/ROS2, web development, machine learning**
 
 - 📫 How to reach me **nachikachoriya3008@gmail.com**
 
